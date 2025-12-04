@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Tp3-Programacion.deps.json
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Tp3-Programacion.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Tp3-Programacion.dll
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Tp3-Programacion.pdb
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.dll
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\refint\Tp3-Programacion.dll
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.pdb
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Tp3-Programacion.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\Ejercicios de Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\ref\Tp3-Programacion.dll

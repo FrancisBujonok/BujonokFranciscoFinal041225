@@ -1,0 +1,15 @@
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Final-Programacion1.deps.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Final-Programacion1.runtimeconfig.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Final-Programacion1.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\bin\Debug\net8.0\Final-Programacion1.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.csproj.AssemblyReference.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.AssemblyInfoInputs.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.AssemblyInfo.cs
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.sourcelink.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\refint\Final-Programacion1.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\Final-Programacion1.genruntimeconfig.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Tp3-Programacion\obj\Debug\net8.0\ref\Final-Programacion1.dll

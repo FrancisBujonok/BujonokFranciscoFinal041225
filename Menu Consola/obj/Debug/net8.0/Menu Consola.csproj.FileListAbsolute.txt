@@ -1,0 +1,73 @@
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Menu Consola.exe
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Menu Consola.deps.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Menu Consola.runtimeconfig.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Menu Consola.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Menu Consola.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Final-Programacion1.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\bin\Debug\net8.0\Final-Programacion1.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.csproj.AssemblyReference.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.AssemblyInfoInputs.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.AssemblyInfo.cs
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.sourcelink.json
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Con.6B217EC7.Up2Date
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\refint\Menu Consola.dll
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.pdb
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\Menu Consola.genruntimeconfig.cache
+C:\Users\Laboratorio_02\Documents\GitHub\Estructura-TP3-Programacion\Tp3-Programacion\Menu Consola\obj\Debug\net8.0\ref\Menu Consola.dll
