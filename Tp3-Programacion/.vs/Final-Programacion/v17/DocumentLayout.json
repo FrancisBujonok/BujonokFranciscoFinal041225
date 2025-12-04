@@ -11,28 +11,28 @@
       "RelativeMoniker": "D:0:0:{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}|Menu Consola\\Menu Consola.csproj|solutionrelative:menu consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\final-programacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|solutionrelative:tp3-programacion\\final-programacion1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Tp3-Programacion.csproj|solutionrelative:tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}|Menu Consola\\Menu Consola.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\menu consola\\menu consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1A109DDB-C8DD-4A7B-8ADA-6E48FAB42DD9}|Menu Consola\\Menu Consola.csproj|solutionrelative:menu consola\\menu consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|solutionrelative:tp3-programacion\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|solutionrelative:tp3-programacion\\models\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|solutionrelative:tp3-programacion\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|c:\\users\\laboratorio_02\\documents\\github\\estructura-tp3-programacion\\tp3-programacion\\tp3-programacion\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38AF74FD-73F5-420F-AAFC-BF343B5C4D5C}|Tp3-Programacion\\Final-Programacion1.csproj|solutionrelative:tp3-programacion\\models\\cancha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Final-Programacion1.csproj",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Final-Programacion1.csproj",
               "RelativeDocumentMoniker": "Tp3-Programacion\\Final-Programacion1.csproj",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Tp3-Programacion\\Final-Programacion1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-04T20:11:30.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T20:11:30.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Reserva.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Reserva.cs",
               "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Reserva.cs",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "Tp3-Programacion\\Models\\Reserva.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T19:43:18.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T19:43:18.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Socio.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Socio.cs",
               "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Socio.cs",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "Tp3-Programacion\\Models\\Socio.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwBEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T19:43:14.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T19:43:14.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Menu Consola.csproj",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Estructura-TP3-Programacion\\Tp3-Programacion\\Menu Consola\\Menu Consola.csproj",
               "RelativeDocumentMoniker": "Menu Consola\\Menu Consola.csproj",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Menu Consola\\Menu Consola.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-04T19:41:41.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-04T19:41:41.905Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "Menu Consola\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T20:07:09.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T20:07:09.824Z"
             },
             {
               "$type": "Document",
@@ -123,8 +118,7 @@
               "RelativeToolTip": "Tp3-Programacion\\Repository\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:54:09.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T19:54:09.152Z"
             },
             {
               "$type": "Document",
@@ -141,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Cancha.cs",
               "DocumentMoniker": "C:\\Users\\Laboratorio_02\\Documents\\GitHub\\Estructura-TP3-Programacion\\Tp3-Programacion\\Tp3-Programacion\\Models\\Cancha.cs",
               "RelativeDocumentMoniker": "Tp3-Programacion\\Models\\Cancha.cs",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Tp3-Programacion\\Models\\Cancha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T19:46:03.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T19:46:03.567Z"
             }
           ]
         }
